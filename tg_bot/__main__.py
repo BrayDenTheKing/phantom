@@ -28,27 +28,33 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+hey there 👋
+My name is Lilly bot
+im here to help you manage
+your groups! Hit /help to find
+out more about how to use
+me to my full potential.
+make sure to join our [support group](t.me/LillyBotChat)
+you can also donate to the
+person currently running me [Donate](PayPal.me/MrSammy07)
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
 
-HIT HELP FOR COMMANDS  /help
 
-I AM COMPLETELY OPEN SOURCE
 
-MY SOURCE CODE IS AVAILABLE TO YOU
 
-[HERE](https://github.com/leobrownlee/phantom)
 
-"""
+
+
+
+
+
+
+
+
+
+
+
 
 HELP_STRINGS = """
 
